@@ -3,7 +3,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def hello():
-	return "arjun pv --"
+	return "arjun pv --1  helm chart demo"
 
 
 if __name__ == "__main__":
