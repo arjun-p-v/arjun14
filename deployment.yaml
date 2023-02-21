@@ -32,9 +32,9 @@ spec:
 
       containers:
 
-      - name: nginx
+      - name: ngx
 
-        image: nginx:1.14.2
+        image: ngx
 
         ports:
 
